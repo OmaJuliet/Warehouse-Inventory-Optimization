@@ -65,12 +65,12 @@ With a projected monthly savings of **$49,000** and an ROI payback in **in 2 mon
 
 ![Business case document page 1](business-case-doc-page-1.png)
 
-**[📎 Download Full Business Case Document](Business-Case:Warehouse-Inventory-Optimization-Strategy.docx)**
+[📎 Download Full Business Case Document](Business-Case-Warehouse-Inventory-Optimization-Strategy.docx)
 
 ### ✅ 5. Pitch Deck
 Presented the findings and recommendations to stakeholders through a 10-slide pitch deck.
 
-**[📎 Download Pitch Deck (PDF)](Warehouse-Optimization-Strategy-Pitch Slide-Deck-for-RapidGroceries.pdf)**
+[📎 Download Pitch Deck (PDF)](Warehouse-Optimization-Strategy-Pitch-Slide-Deck-for-RapidGroceries.pdf)
 
 ---
 
